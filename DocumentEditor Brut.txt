@@ -1,0 +1,3 @@
+ Akash is doing LLD
+ Image path:c;//image1.jpg
+ closed :)
